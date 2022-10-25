@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/superheroes-client/static/css/main.6d9e7643.css",
+    "main.js": "/superheroes-client/static/js/main.5929b6ac.js",
+    "static/css/785.d7b6abc8.chunk.css": "/superheroes-client/static/css/785.d7b6abc8.chunk.css",
+    "static/js/785.16947991.chunk.js": "/superheroes-client/static/js/785.16947991.chunk.js",
+    "static/css/599.5f1c6b9f.chunk.css": "/superheroes-client/static/css/599.5f1c6b9f.chunk.css",
+    "static/js/599.85a474a5.chunk.js": "/superheroes-client/static/js/599.85a474a5.chunk.js",
+    "static/css/9.d066501b.chunk.css": "/superheroes-client/static/css/9.d066501b.chunk.css",
+    "static/js/9.252762a3.chunk.js": "/superheroes-client/static/js/9.252762a3.chunk.js",
+    "static/css/499.4dd4a4b5.chunk.css": "/superheroes-client/static/css/499.4dd4a4b5.chunk.css",
+    "static/js/499.7aa11b72.chunk.js": "/superheroes-client/static/js/499.7aa11b72.chunk.js",
+    "static/js/30.166b79c0.chunk.js": "/superheroes-client/static/js/30.166b79c0.chunk.js",
+    "static/js/993.bad41b6a.chunk.js": "/superheroes-client/static/js/993.bad41b6a.chunk.js",
+    "static/js/562.df728ecb.chunk.js": "/superheroes-client/static/js/562.df728ecb.chunk.js",
+    "static/js/113.e032c0f2.chunk.js": "/superheroes-client/static/js/113.e032c0f2.chunk.js",
+    "static/media/slick.svg": "/superheroes-client/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/superheroes-client/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/superheroes-client/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/superheroes-client/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/superheroes-client/index.html",
+    "main.6d9e7643.css.map": "/superheroes-client/static/css/main.6d9e7643.css.map",
+    "main.5929b6ac.js.map": "/superheroes-client/static/js/main.5929b6ac.js.map",
+    "785.d7b6abc8.chunk.css.map": "/superheroes-client/static/css/785.d7b6abc8.chunk.css.map",
+    "785.16947991.chunk.js.map": "/superheroes-client/static/js/785.16947991.chunk.js.map",
+    "599.5f1c6b9f.chunk.css.map": "/superheroes-client/static/css/599.5f1c6b9f.chunk.css.map",
+    "599.85a474a5.chunk.js.map": "/superheroes-client/static/js/599.85a474a5.chunk.js.map",
+    "9.d066501b.chunk.css.map": "/superheroes-client/static/css/9.d066501b.chunk.css.map",
+    "9.252762a3.chunk.js.map": "/superheroes-client/static/js/9.252762a3.chunk.js.map",
+    "499.4dd4a4b5.chunk.css.map": "/superheroes-client/static/css/499.4dd4a4b5.chunk.css.map",
+    "499.7aa11b72.chunk.js.map": "/superheroes-client/static/js/499.7aa11b72.chunk.js.map",
+    "30.166b79c0.chunk.js.map": "/superheroes-client/static/js/30.166b79c0.chunk.js.map",
+    "993.bad41b6a.chunk.js.map": "/superheroes-client/static/js/993.bad41b6a.chunk.js.map",
+    "562.df728ecb.chunk.js.map": "/superheroes-client/static/js/562.df728ecb.chunk.js.map",
+    "113.e032c0f2.chunk.js.map": "/superheroes-client/static/js/113.e032c0f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d9e7643.css",
+    "static/js/main.5929b6ac.js"
+  ]
+}

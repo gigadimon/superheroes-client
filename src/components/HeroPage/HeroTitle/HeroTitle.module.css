@@ -1,0 +1,15 @@
+.nameWrapper {
+  text-align: center;
+}
+
+.nickname {
+  font-size: 38px;
+  font-weight: 500;
+  color: #1976d7;
+  margin-bottom: 20px;
+}
+
+.realName {
+  font-size: 20px;
+  margin-bottom: 30px;
+}

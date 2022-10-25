@@ -1,0 +1,22 @@
+.homeSection {
+  text-align: center;
+  padding: 20px;
+}
+
+.defaultText {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 48px;
+}
+
+.createButton {
+  background-color: transparent;
+  color: #1976d2;
+  font-size: 48px;
+  font-weight: 500;
+
+  border: none;
+  cursor: pointer;
+}

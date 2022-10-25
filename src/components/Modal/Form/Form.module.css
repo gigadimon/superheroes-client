@@ -1,0 +1,44 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  height: 300px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.textInput {
+  width: 30%;
+}
+
+.textInput:not(:first-child) {
+  margin-left: 5%;
+}
+
+.submit {
+  display: block;
+}
+.file {
+  opacity: 0;
+  visibility: hidden;
+  position: absolute;
+}
+
+.avatar {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 50px;
+  min-height: 30px;
+  padding: 5px;
+  text-transform: uppercase;
+  cursor: pointer;
+  color: #1976d2;
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,
+    box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,
+    border-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,
+    color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+}
+
+.avatar:hover {
+  background-color: rgba(25, 118, 210, 0.04);
+}
